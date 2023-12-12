@@ -1,3 +1,14 @@
 #proyecto1 {
-    background-image: url('unsplash-photo-1.jpg');
+    background-image: url('assets/pagina\ 1.png');
+    background-size: cover;
+}
+
+#proyecto2 {
+    background-image: url('assets/pagina\ 2.png');
+    background-size: cover;
+}
+
+#proyecto3{
+    background-image: url('assets/pagina\ 3.png');
+    background-size: cover;
 }
